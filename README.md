@@ -26,8 +26,8 @@ This project implements a face detection pipeline using Support Vector Machine (
 ## 📂 Project Structure
 ```
 ├── face_detection_SVM.ipynb  # Main Jupyter Notebook with full implementation
-├── /data/                   # Directory containing positive and negative image samples
-└── /models/                 # (Optional) Directory to save trained models
+├── requirements.txt          # required dependencies
+└── README.md                 
 ```
 
 ---
@@ -99,9 +99,6 @@ The Histogram of Oriented Gradients (HOG) was used for feature extraction, signi
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License.
 
----
 
 *Feel free to fork the repository and contribute! 😊*
